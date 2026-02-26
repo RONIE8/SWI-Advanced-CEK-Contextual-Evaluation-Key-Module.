@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://share.google/uJGR9WhAt0WhEez1d" />
 
-  <h1>Built with AI Studio</h2>
+  <h1>Built By Trusts Motion Team</h2>
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+  <p>Mental Health Does Not Discriminate, Neither are we.</p>
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+  <a href="https://bw.trustsmotion.org">Make it Happen </a>
 
 </div>
